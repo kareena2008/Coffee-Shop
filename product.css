@@ -16,7 +16,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    background: var(--coffee-cream);
+    background:  #0F1E21;
     color: var(--text-dark);
     line-height: 1.7;
     overflow-x: hidden;
@@ -153,6 +153,7 @@ nav a:hover::after{
 }
 .hero-subtitle{
     font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
     color: var(--coffee-accent);
     margin-top: 20px;
     margin-bottom: 60px;
@@ -190,7 +191,7 @@ nav a:hover::after{
 .products{
     padding: 120px 0;
     position: relative;
-    background-color: var(--coffee-cream);
+    background-color:  #0F1E21;
     border-top:4px solid var(--coffee-gold);
 }
 .section-header{
@@ -241,6 +242,7 @@ nav a:hover::after{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 40px;
+    margin: 30px;
 }
 .product-card{
     background: var(--coffee-dark);
