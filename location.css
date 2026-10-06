@@ -191,7 +191,7 @@ nav a:hover::after{
 .sub-header{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(245, 160, 130, 0.25) 40%,rgb(15, 30, 35) 100%),url(images/background.png);
+    background-image: linear-gradient(rgba(245, 160, 130, 0.25) 40%,rgb(15, 30, 35) 100%),url(images/background.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
